@@ -17,5 +17,5 @@ For encrypt PE(EXE or DLL) and insert it in another PE (inject) run: enject_dll.
 
 For remove temp files run: clear.bat
 
-By Solodov A. N. aka SANshine aka Paketov aka Antichrist aka CatsEater aka KittyEater aka UniverseFucker - Its true, not a joke
+By Solodov A. N. aka SANshine aka Paketov aka Antichrist aka CatsEater aka KittyEater aka UniverseFucker(Трахатель Вселенной) aka WorldFucker - Its true, not a joke
 
